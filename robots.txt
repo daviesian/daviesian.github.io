@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://daviesian.github.io/sitemap.xml 
